@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AngularProjects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj": {}
+    "F:\\Projects\\CodePulse\\CodePulse.API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj": {}
   },
   "projects": {
-    "E:\\AngularProjects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj": {
+    "F:\\Projects\\CodePulse\\CodePulse.API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AngularProjects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
+        "projectUniqueName": "F:\\Projects\\CodePulse\\CodePulse.API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
         "projectName": "CodePulse.API",
-        "projectPath": "E:\\AngularProjects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
-        "packagesPath": "C:\\Users\\BS984\\.nuget\\packages\\",
-        "outputPath": "E:\\AngularProjects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\obj\\",
+        "projectPath": "F:\\Projects\\CodePulse\\CodePulse.API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
+        "packagesPath": "C:\\Users\\Sajib\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\CodePulse\\CodePulse.API\\CodePulse.API\\CodePulse.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BS984\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sajib\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
