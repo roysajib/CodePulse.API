@@ -150,3 +150,10 @@ F:\Projects\CodePulse\CodePulse.API\CodePulse.API\CodePulse.API\obj\Debug\net7.0
 F:\Projects\CodePulse\CodePulse.API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.pdb
 F:\Projects\CodePulse\CodePulse.API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.genruntimeconfig.cache
 F:\Projects\CodePulse\CodePulse.API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\ref\CodePulse.API.dll
+F:\Projects\CodePulse\CodePulse.API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Projects\CodePulse\CodePulse.API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Projects\CodePulse\CodePulse.API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Projects\CodePulse\CodePulse.API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Projects\CodePulse\CodePulse.API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\Projects\CodePulse\CodePulse.API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Projects\CodePulse\CodePulse.API\CodePulse.API\CodePulse.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
